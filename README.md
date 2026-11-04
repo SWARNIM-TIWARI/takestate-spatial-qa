@@ -1,4 +1,4 @@
-# TakeState — visual rule checking for controlled product photography
+# TakeState: visual rule checking for controlled product photography
 
 TakeState checks whether each new photo of a staged shot satisfies a creator-defined spatial rule, for example *"the glass must be to the right of the bottle"*, and shows its evidence.
 
